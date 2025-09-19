@@ -3,7 +3,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.graph_objects as go
 
-from menu_styles import *
+from components import menu_styles
 from functions import *
 from app import *
 

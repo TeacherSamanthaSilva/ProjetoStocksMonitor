@@ -5,7 +5,7 @@ import numpy as np
 import plotly.graph_objects as go
 from datetime import date
 
-from menu_styles import *
+from components.menu_styles import *
 from functions import *
 from app import *
 
